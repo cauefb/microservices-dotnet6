@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "83b5b522-50c7-4a6f-93a9-2d51819d75d1": {
+      "ProjectGuid": "83b5b522-50c7-4a6f-93a9-2d51819d75d1",
+      "DisplayName": "GeekShopping.Web",
+      "ColorIndex": 0
+    },
+    "a1aea09b-0e2d-4194-8120-f9b1a8576f5a": {
+      "ProjectGuid": "a1aea09b-0e2d-4194-8120-f9b1a8576f5a",
+      "DisplayName": "GeekShopping.ProductAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
