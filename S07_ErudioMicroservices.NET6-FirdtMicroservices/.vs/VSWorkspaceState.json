@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\GeekShopping",
+    "\\GeekShopping\\GeekShopping.ProductAPI",
+    "\\GeekShopping\\GeekShopping.ProductAPI\\Migrations"
+  ],
+  "SelectedNode": "\\GeekShopping\\GeekShopping.ProductAPI\\Migrations\\MySQLContextModelSnapshot.cs",
+  "PreviewInSolutionExplorer": false
+}
